@@ -1,12 +1,2 @@
-node_modules/
-dist/
-build/
-.vite/
 .env
-.venv/
 venv/
-__pycache__/
-*.py[cod]
-fastapi-backend/data/store.json
-amazon-frontend/.env
-fastapi-backend/.env
